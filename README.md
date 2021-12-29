@@ -1,4 +1,4 @@
-# Andy's Footprints
+# Andy's Symbols
 While designing some PCBs, I ended up creating a few footprints myself, which sometimes also needed complete new symbols. So here they are!
 
 ## RotaryEncoder_Switch_LED
