@@ -1,3 +1,8 @@
+# !! This repo is archived and has moved !!
+Please see https://github.com/ezcGman/andys-kicad
+
+---
+
 # Andy's Symbols
 While designing some PCBs, I ended up creating a few footprints myself, which sometimes also needed complete new symbols. So here they are!
 
